@@ -75,7 +75,7 @@ EXECUTE FUNCTION update_timestamp();
 INSERT INTO leads (full_name, phone, email, location, property_type, system_size, source, status) VALUES
 ('Rajesh Kumar', '9876543210', 'rajesh@example.com', 'Kochi', 'Residential', 5.0, 'Website', 'New Lead'),
 ('Priya Menon', '8765432109', 'priya@example.com', 'Thrissur', 'Commercial', 20.0, 'Referral', 'Site Visit Scheduled'),
-('Arun K', '1579523684', 'arun@example.com', 'Kozhikode', 'Industrial', 45.5, 'Social Media', 'Proposal Sent'),
+('Arun K', '9579523684', 'arun@example.com', 'Kozhikode', 'Industrial', 45.5, 'Social Media', 'Proposal Sent'),
 ('Sandhya Nair', '6984125388', 'sandhya@example.com', 'Kochi', 'Residential', 8.0, 'Walk-in', 'Won'),
-('Thomas', '1245789630', 'thomas@example.com', 'Palakkad', 'Commercial', 12.0, 'Website', 'Lost');
+('Thomas', '9245789630', 'thomas@example.com', 'Palakkad', 'Commercial', 12.0, 'Website', 'Lost');
 
